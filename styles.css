@@ -2,6 +2,10 @@ body {
     background-color: #FFE5B4;
     font-family: Maven Pro;
 }
+.content {
+  margin:auto;
+  padding-left: 4em
+}
 h1 {
     font-family: 'Maven Pro', cursive;
     font-size: 2.5em;
